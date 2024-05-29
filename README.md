@@ -1,4 +1,4 @@
 # demo
 This is my First Git Repository
 <br>
-Author - Amruni Sonavane
+Author - Amruni (SITS College)
